@@ -40,3 +40,18 @@ fieldset{
     border: black 2px solid;
     background-color: blanchedalmond;
 }
+ul li {
+    display: inline-flex;
+    margin-left: 100px;
+    
+}
+li:hover{
+    color: red;
+    font-size: 20px;
+    background-color: lemonchiffon;
+    border-radius: 20px;
+    padding: 10px;
+}
+:link{
+    color: black
+}
