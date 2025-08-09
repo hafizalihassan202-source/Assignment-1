@@ -34,3 +34,9 @@ table th{
 table td{
     background-color: lightyellow;
 }
+fieldset{
+    margin-left: 400px;
+    margin-right: 400px;
+    border: black 2px solid;
+    background-color: blanchedalmond;
+}
